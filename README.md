@@ -7,10 +7,10 @@ After combing through all the data pertaining to our students recent test scores
 First off, the students from charter schools out perform students the district schools by a large margin in both reading and math:
 
 ### Top 5 schools
-![Top_schools](images/Top_schools.png)
+![Top_schools](Images/Top_schools.png)
 
 ### Bottom 5 schools
-![Bottom_schools](images/Bottom_schools.png)
+![Bottom_schools](Images/Bottom_schools.png)
 
 This leads me to believe our district schools are not teaching as effectively as the Charter schools. Effective teaching can be attributed to much more than the qualitty of teachers; including, but not limited to:
         - Student support resources
@@ -23,7 +23,7 @@ I would recommend looking into the differences between the charter schools in th
 Secondly, it appears that the larger schools (2000-5000 students) typically perform worse than schools with fewer students. 
 
 ### Performance by school size 
-![Performance_size](images/Bottom_schools.png)
+![Performance_size](Images/Bottom_schools.png)
 
 These schools are almost entirely district schools (with the exception of Wislon High School) leads me to conclude that our schools are not equipped to handle the amount of students that attend. Teachers, administrators and resources are most likely spread too thin.
 
